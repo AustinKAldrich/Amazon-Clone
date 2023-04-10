@@ -1,0 +1,80 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    text-align: left;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    margin-left: 480px;
+    margin-right: 480px;
+    margin-top: 90px;
+}
+
+h2{
+    margin-left: 20px;
+    margin-top: 2px;
+    font-weight: 100;
+    margin-bottom: 5px;
+}
+
+label{
+    margin-left: 20px;
+    font-size: 8pt;
+}
+
+a#forgot-password{
+    font-size: 8pt;
+    margin-left: 100px;
+    text-decoration: none;
+}
+
+input{
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding-right: 90px;
+}
+
+button#sign-in{
+    margin-left: 20px;
+    padding-left: 108px;
+    padding-right: 108px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: rgb(251, 194, 5);
+    color: black;
+    font-size: 8pt;
+    border: 1px solid;
+    border-color: rgb(223, 167, 0);
+    border-radius: 2px;
+}
+
+a#need-help{
+    font-size: 8pt;
+    text-decoration: none;
+}
+
+h5{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: grey;
+    font-size: 10pt;
+    font-weight: 100;
+}
+
+button#new-customer{
+    background-color: lightgrey;
+    margin-left: 500px;
+    margin-top: 0px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: black;
+    font-size: 8pt;
+    border: 1px solid;
+    border-color: grey;
+    border-radius: 2px;
+}
